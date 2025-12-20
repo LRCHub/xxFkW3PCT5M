@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "からくりピエロ",
+  "base_artist": "40mP",
+  "createdAt": "2025-12-20T17:42:15.897826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "40mP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_からくりピエロ_40mP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "からくりピエロ feat.ココル",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/02_からくりピエロ_feat.ココル_40mP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "40mP feat.初音ミク feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/03_からくりピエロ_40mP_feat.初音ミク_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "40mP feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/04_からくりピエロ_40mP_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "からくりピエロ -初音ミク「マジカルミライ 2014」Live-",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/05_からくりピエロ_-初音ミク「マジカルミライ_2014」Live-_40mP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "からくりピエロ (feat",
+      "artist": "40mP feat.初音ミク",
+      "has_synced": false,
+      "path": "select/06_からくりピエロ_(feat_40mP_feat.初音ミク.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "からくりピエロ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/07_からくりピエロ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/08_からくりピエロ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "イナメトオル",
+      "has_synced": true,
+      "path": "select/09_からくりピエロ_イナメトオル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "40mP",
+      "has_synced": false,
+      "path": "select/10_からくりピエロ_40mP.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "からくりピエロ (feat. 洲崎綾)",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/11_からくりピエロ_(feat._洲崎綾)_40mP.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/12_からくりピエロ_40mP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/13_からくりピエロ_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "ギガP",
+      "has_synced": true,
+      "path": "select/14_からくりピエロ_ギガP.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/15_からくりピエロ_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "からくりピエロ -初音ミク「マジカルミライ 2014」Live-",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/16_からくりピエロ_-初音ミク「マジカルミライ_2014」Live-_40mP.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "からくりピエロ",
+      "artist": "THE HOOPERS",
+      "has_synced": true,
+      "path": "select/17_からくりピエロ_THE_HOOPERS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "からくりピエロ",
+      "artist": "40mP",
+      "has_synced": false,
+      "path": "select/pl_01_からくりピエロ_40mP.txt"
+    }
+  ]
+}
